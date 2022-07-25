@@ -855,8 +855,8 @@ header .navbar ul li a:hover {
 
 .contact .container .content .button-area button i{
     position: relative;
-    top: 6px;
-    left: 2px;
+    top: 2px;
+    left: 3px;
     font-size: 1.5rem;
     transition: 0.3s;
     color: #fff;
