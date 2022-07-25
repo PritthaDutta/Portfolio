@@ -75,7 +75,8 @@ scr.reveal('.btn',{delay: 400});
 scr.reveal('.viewall',{delay: 400});
 
 /*SCROLL CONTACT*/
-scr.reveal('.contact',{interval: 200}); 
+scr.reveal('.contact',{interval: 200});
+scr.reveal('.heading',{delay: 200}); 
 scr.reveal('.container',{delay: 400});
 scr.reveal('.content',{delay: 400});
 scr.reveal('.image-box',{delay: 400});
